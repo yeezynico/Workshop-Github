@@ -49,7 +49,7 @@ Apprendre à collaborer efficacement sur GitHub en petit groupe (3 étudiants), 
 
 1. Créez un fichier `recette.md` contenant trois sections : Introduction / Ingrédients / Étapes
 2. Attribuez-vous chacun une section
-3. Créez une branche `[initiales]/section-nom` (ex : `cd/ajout-ingredients`)
+3. Créez une branche `[initiales]/section-nom` (ex : `AZ/ajout-ingredients`)
 4. Remplissez votre section
 5. Créez une PR, faites-la review par un autre membre avant de merger
 
