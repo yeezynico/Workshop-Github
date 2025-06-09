@@ -22,7 +22,7 @@ Apprendre à collaborer efficacement sur GitHub en petit groupe (3 étudiants), 
 3. Effectuez la modification
 4. Faites un commit et poussez votre branche
 5. Créez une Pull Request (PR) vers `main`
-6. Demandez une relecture à un membre du groupe avant de merger
+6. Demandez une relecture (code review) aux autres membres du groupe avant de merger
 
 ---
 
@@ -32,9 +32,9 @@ Apprendre à collaborer efficacement sur GitHub en petit groupe (3 étudiants), 
 
 ### Tâche
 
-1. Chacun crée une branche `[initiales]/modif-conflit` depuis `main`
+1. Chacun crée une branche `[initiales]/modif-conflit` **depuis** `main`
 2. Tous modifient **la même ligne** dans `conflit.txt`
-3. Poussez votre branche et créez une PR
+3. Poussez votre branche et créez une PR (n'oubliez pas de valider via une code review)
 4. Le premier merge passera
 5. Les autres devront **résoudre le conflit manuellement** (sans instructions explicites)
 6. Validez que les conflits sont bien résolus puis merger
@@ -51,7 +51,7 @@ Apprendre à collaborer efficacement sur GitHub en petit groupe (3 étudiants), 
 2. Attribuez-vous chacun une section
 3. Créez une branche `[initiales]/section-nom` (ex : `AZ/ajout-ingredients`)
 4. Remplissez votre section
-5. Créez une PR, faites-la review par un autre membre avant de merger
+5. Créez une PR, faites-la review par les autres membres avant de merger
 
 ---
 
@@ -69,27 +69,13 @@ Apprendre à collaborer efficacement sur GitHub en petit groupe (3 étudiants), 
 
 ---
 
-## Exercice 5 : Mini-projet collaboratif (30 minutes)
-
-**Objectif** : Simuler un vrai workflow de collaboration sur un mini-projet web.
-
-### Tâche
-
-1. Le repo contient : `index.html`, `style.css`, `utils.js`
-2. Chaque étudiant prend un fichier et crée une branche `[initiales]/modification-type` (ex: `AZ/ajout-style-formulaire`)
-3. Modifiez votre fichier
-4. Créez une PR, demandez une review
-5. Mettez à jour la branche si besoin, puis mergez
-
----
-
 ## Fin du workshop : bonnes pratiques
 
 - Ne pas travailler directement sur `main`
 - Créer des branches claires : `[initiales]/feature` ou `fix/login-error`
 - Nommer correctement les commits
 - Toujours passer par une Pull Request
-- Relecture obligatoire par au moins une personne
+- Relecture (code review) obligatoire par le reste du groupe
 - Résoudre les conflits calmement
 
 ---
