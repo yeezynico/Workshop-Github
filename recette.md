@@ -1,0 +1,3 @@
+- **Pâte sablée** : farine, beurre, sucre, œuf, sel  
+- **Crème pâtissière** : lait, sucre, œufs, vanille, maïzena  
+- **Garniture** : fraises fraîches, nappage (gelée de fraise ou confiture)  
